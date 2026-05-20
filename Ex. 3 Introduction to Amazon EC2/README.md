@@ -117,7 +117,7 @@ Terminate the EC2 instance after completing the experiment to avoid unnecessary 
 
 ### Screenshot 2: SSH Connection to Instance
 
-<img width="1920" height="1200" alt="Screenshot (23)" src="https://github.com/user-attachments/assets/1ba4796f-c26e-4088-ac80-31795160b9cc" />
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/1e532751-e811-4908-92e8-6f4665059cac" />
 
 
 ---
