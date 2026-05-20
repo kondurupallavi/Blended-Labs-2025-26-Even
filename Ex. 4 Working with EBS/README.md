@@ -92,7 +92,8 @@ Reboot the EC2 instance and verify that the data stored in the EBS volume is sti
 
 ### Screenshot 1: EBS Volume Created
 
-img width="1919" height="885" alt="Screenshot 2026-03-18 092337" src="https://github.com/user-attachments/assets/6eb340a0-1aae-4392-90ba-9127f26e1b53" />
+<img width="1919" height="885" alt="Screenshot 2026-03-18 092337" src="https://github.com/user-attachments/assets/6eb340a0-1aae-4392-90ba-9127f26e1b53" />
+
 
 ---
 
